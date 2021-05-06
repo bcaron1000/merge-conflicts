@@ -1,6 +1,11 @@
 # Degree:education
 - degree: Just some stuff
+  degree: Stuff
   uni: Nait
+  uni: another
   year: May, 2021
+  year: jan, 2021
+  # awards: none
   # awards: none
   # summary: Just a quick update again 2
+  # summary: Just a quick update again 3
